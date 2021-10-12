@@ -1,0 +1,8 @@
+{
+  "prefix": "em!",
+  "maxEmails": 10,
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=896656060054663208&permissions=125952&scope=bot",
+  "status": {
+    "type": "WATCHING"
+  }
+}

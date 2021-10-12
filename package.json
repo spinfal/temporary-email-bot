@@ -1,0 +1,16 @@
+{
+  "name": "emails",
+  "version": "1.0.0",
+  "description": "An easy way to make temporary emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "spinfal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "git+https://git@github.com/spinfal/discord.js.git",
+    "node-fetch": "^2.6.1"
+  }
+}

@@ -1,0 +1,6 @@
+# ignore these
+package-lock.json
+
+# not these
+!config.json
+!package.json

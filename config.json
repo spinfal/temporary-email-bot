@@ -4,6 +4,7 @@
   "useEmbed": false,
   "invite": "https://discord.com/api/oauth2/authorize?client_id=896656060054663208&permissions=125952&scope=bot",
   "status": {
-    "type": "WATCHING"
+    "type": "WATCHING",
+    "text": "the email fabricator..."
   }
 }

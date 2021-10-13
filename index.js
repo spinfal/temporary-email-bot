@@ -29,7 +29,7 @@ fs.readdir("./commands/", (err, files) => {
 
 // on ready info
 client.on("ready", async () => {
-  client.user.setActivity(`the email fabricator...`, { type: config.status.type });
+  client.user.setActivity(config.status.text, { type: config.status.type });
   console.log(`Status type: ${config.status.type}`);
   console.log(`Logged in as ${client.user.tag}`);
 });

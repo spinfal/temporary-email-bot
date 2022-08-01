@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "git+https://git@github.com/spinfal/discord.js.git",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.2.10"
   }
 }
